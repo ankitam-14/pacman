@@ -1,5 +1,6 @@
-# pacman
+## Pacman
 This project is for Pacman to find food in a medium sized maze. The importatnt files are as follows:
+
 1. pacman.py - This file is the main file which implemnts the pacman game.
 2. searchAgents.py - This file consists of Agents that will be used to seaarch for food in Pacman
 3. search.py - This file consists of different algorithms implemented for this project i.e. Astar search and Uniform Cost Search.
